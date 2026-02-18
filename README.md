@@ -1,4 +1,4 @@
-# [BrickNova]
+# BrickNova
 
 <div align="center">
   
