@@ -1,4 +1,4 @@
-# [App Name]
+# [BrickNova]
 
 <div align="center">
   
