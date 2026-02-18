@@ -49,6 +49,53 @@ distributed, or transmitted in any form or by any means, including copying,
 modifying, or creating derivative works, without the express prior written
 permission of the copyright holder.
 
+---
+
+## 🛡️ What This Means For You (The User)
+
+| You Want To... | Is It Allowed? |
+|----------------|----------------|
+| Read the code to verify no spyware | ✅ YES - That's why it's here |
+| Use the live app at bricknova.neocities.org | ✅ YES - That's the service |
+| Copy code snippets into your project | ❌ NO - Copyright infringement |
+| Fork and create your own version | ❌ NO - Copyright infringement |
+| Learn from the code techniques | ❌ NO - Not permitted |
+| Use code in a YouTube tutorial | ❌ NO - Not permitted |
+| Share copies of the code | ❌ NO - Distribution prohibited |
+
+---
+
+## 🔐 Transparency Commitment
+
+I put this code here so you can verify for yourself:
+
+- ✅ No IP logging code exists
+- ✅ No analytics/tracking scripts
+- ✅ No spyware or malware
+- ✅ No hidden data collection
+- ✅ No telemetry without consent
+
+**Every line is visible. Every network call is documented. Nothing is hidden.**
+
+---
+
+## ⚡ If You Want to Use This Code
+
+If you're interested in using any part of this code for any purpose (including educational, commercial, or personal), **you must contact me for explicit written permission.**
+
+Email: bricknovacorp@proton.me
+
+Unauthorized use will be pursued to the fullest extent of the law, including:
+- DMCA takedown notices
+- Copyright infringement lawsuits
+- Statutory damages up to $150,000 per work
+- Criminal charges if applicable (malware/spyware cases)
+
+---
+
+## 📁 Repository Structure
+
+
 This repository is provided "AS IS" for TRANSPARENCY PURPOSES ONLY. By
 accessing this code, you acknowledge that you have been explicitly notified
 that NO LICENSE is granted for any use other than viewing.
