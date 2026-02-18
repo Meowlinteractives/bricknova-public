@@ -38,3 +38,17 @@ You may read this code to conduct such a privacy audit.
 ---
 
 ## 📜 Copyright Status
+
+Copyright © 2026 Meowl
+
+ALL RIGHTS RESERVED.
+
+This source code and all accompanying materials are protected by copyright
+law and international treaties. No part of this code may be reproduced,
+distributed, or transmitted in any form or by any means, including copying,
+modifying, or creating derivative works, without the express prior written
+permission of the copyright holder.
+
+This repository is provided "AS IS" for TRANSPARENCY PURPOSES ONLY. By
+accessing this code, you acknowledge that you have been explicitly notified
+that NO LICENSE is granted for any use other than viewing.
